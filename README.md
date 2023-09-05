@@ -1,25 +1,24 @@
-# Análise de dados Financeiros de Vendas
+# Projeto Análise de Dados de Vendas e Lucro
 
-Projeto de análise de um conjunto de dados financeiros obtido a partir do Kaggle, que consiste em um conjunto de dados que requer pré-processamento com insights EDA incríveis para uma empresa,
-são dados de vendas e lucro classificados por segmento de mercado e país/região. 
+Este projeto consiste em uma análise de um conjunto de dados de uma empresa contendo informações de vendas e lucro, classificadas por segmento de mercado e país/região. Os dados foram obtidos no Kaggle e podem ser encontrados Dados obtidos no [Kaggle](https://www.kaggle.com/datasets/atharvaarya25/financials/code).
 
-Este projeto não apenas destaca minha experiência em análise, mas também serve como um exemplo concreto do meu trabalho para o meu portfólio.
+# Objetivo do Projeto
 
-Verificação e Pré-processamento: 
-O primeiro passo foi garantir que os dados estivessem limpos e prontos para análise. Realizei uma verificação detalhada das colunas, identificando e corrigindo possíveis erros.
+O objetivo deste projeto é realizar o tratamento dos dados, garantindo que estejam limpos e prontos para análise, e, em seguida, responder a várias perguntas importantes relacionadas às vendas e lucro. Algumas das principais questões que buscamos responder incluem:
 
-Preparação dos Dados: 
-Removi espaços nos nomes das colunas, símbolos como '$' e '-', e converti os tipos de dados para inteiros, tornando-os mais adequados para análise numérica.
-Modifiquei o formato das datas, para visualização ao longo do tempo.
+Como as vendas e o lucro evoluíram ao longo do tempo?
+Qual é o produto mais vendido?
+Qual produto gera o maior lucro médio?
+Quais segmentos de mercado têm as maiores vendas?
+Qual é o lucro médio por segmento?
+Quais países ou regiões têm as maiores vendas?
+Qual é o produto mais vendido em cada segmento?
 
-Resumo estatístico: Separei as colunas numéricas e realizei um resumo estatístico.
-Utilizando bibliotecas de visualização em Python, criei gráficos dinâmicos que destacaram tendências, padrões e oportunidades.
-Os gráficos de vendas e lucros ao longo do tempo trouxeram insights imediatos.
+# Tratamento dos Dados
+Durante o tratamento dos dados, foram realizadas as seguintes ações:
 
-Identifiquei produtos com maior lucro médio, o que se revelou vital para decisões estratégicas.
+Verificação detalhada das colunas em busca de possíveis erros.
+Remoção de espaços nos nomes das colunas, símbolos como '$' e '-'.
+Conversão dos tipos de dados para inteiros, tornando-os adequados para análise numérica.
 
-Explorei e destaquei as vendas por segmento e lucro médio, permitindo a identificação de quais segmentos estavam superando as expectativas e quais precisavam de atenção especial.
 
-Destaquei os produto de maior venda em cada segmento de mercado, traduzindo esses achados complexos em um gráfico de barras empilhadas.
-
-Explorei as vendas por país/região, proporcionando uma compreensão mais profunda das áreas geográficas mais produtivas e das que poderiam ser desenvolvidas.
