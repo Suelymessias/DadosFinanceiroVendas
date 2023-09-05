@@ -6,13 +6,13 @@ Este projeto consiste em uma análise de um conjunto de dados de uma empresa con
 
 O objetivo deste projeto é realizar o tratamento dos dados, garantindo que estejam limpos e prontos para análise, e, em seguida, responder a várias perguntas importantes relacionadas às vendas e lucro. Algumas das principais questões que buscamos responder incluem:
 
-Como as vendas e o lucro evoluíram ao longo do tempo?
-Qual é o produto mais vendido?
-Qual produto gera o maior lucro médio?
-Quais segmentos de mercado têm as maiores vendas?
-Qual é o lucro médio por segmento?
-Quais países ou regiões têm as maiores vendas?
-Qual é o produto mais vendido em cada segmento?
+* Como as vendas e o lucro evoluíram ao longo do tempo?
+* Qual é o produto mais vendido?
+* Qual produto gera o maior lucro médio?
+* Quais segmentos de mercado têm as maiores vendas?
+* Qual é o lucro médio por segmento?
+* Quais países ou regiões têm as maiores vendas?
+* Qual é o produto mais vendido em cada segmento?
 
 # Tratamento dos Dados
 Durante o tratamento dos dados, foram realizadas as seguintes ações:
