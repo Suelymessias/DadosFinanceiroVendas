@@ -1,6 +1,6 @@
 # Projeto Análise de Dados de Vendas e Lucro
 
-Este projeto consiste em uma análise de um conjunto de dados de uma empresa contendo informações de vendas e lucro, classificadas por segmento de mercado e país/região. Os dados foram obtidos no Kaggle e podem ser encontrados Dados obtidos no [Kaggle](https://www.kaggle.com/datasets/atharvaarya25/financials/code).
+Este projeto consiste em uma análise de um conjunto de dados de uma empresa contendo informações de vendas e lucro, classificadas por segmento de mercado e país/região. Os dados foram obtidos no Kaggle e podem ser encontrados aqui [Kaggle](https://www.kaggle.com/datasets/atharvaarya25/financials/code).
 
 # Objetivo do Projeto
 
