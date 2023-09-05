@@ -21,6 +21,28 @@ Verificação detalhada das colunas em busca de possíveis erros.
 Remoção de espaços nos nomes das colunas, símbolos como '$' e '-'.
 Conversão dos tipos de dados para inteiros, tornando-os adequados para análise numérica.
 
+# Dicionário
+
+| Coluna             | Descrição                                                  |
+|--------------------|------------------------------------------------------------|
+| `Segment`          | O segmento de mercado ao qual o produto pertence.         |
+| `Country`          | O país ou região onde as vendas ocorreram.                |
+| `Product`          | O nome do produto.                        |
+| `Discount Band`    | A faixa de desconto aplicada ao produto.                  |
+| `Units Sold`       | O número de unidades vendidas do produto.                 |
+| `Manufacturing Price` | O preço de fabricação do produto.                        |
+| `Sale Price`       | O preço de venda do produto.                               |
+| `Gross Sales`      | As vendas brutas, ou seja, o total de vendas antes de descontos. |
+| `Discounts`        | O valor total dos descontos aplicados.                     |
+| `Sales`            | As vendas líquidas após a aplicação de descontos.          |
+| `COGS`             | O custo dos produtos vendidos (Cost of Goods Sold).       |
+| `Profit`           | O lucro obtido com as vendas.                              |
+| `Date`             | A data da transação de venda.                              |
+| `Month Number`     | O número do mês da transação.                              |
+| `Month Name`       | O nome do mês da transação.                                |
+| `Year`             | O ano da transação.                                       |
+
+
 # Dependências
 Este projeto requer as seguintes bibliotecas Python:
 
