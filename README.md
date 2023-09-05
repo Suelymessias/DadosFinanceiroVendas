@@ -21,4 +21,28 @@ Verificação detalhada das colunas em busca de possíveis erros.
 Remoção de espaços nos nomes das colunas, símbolos como '$' e '-'.
 Conversão dos tipos de dados para inteiros, tornando-os adequados para análise numérica.
 
+# Dependências
+Este projeto requer as seguintes bibliotecas Python:
+
+* Pandas
+* Numpy
+* Matplotlib
+* Seaborn
+
+# Resultados e Conclusões
+Os resultados e conclusões desta análise podem ser encontrados no notebook de análise de dados. Lá, você encontrará gráficos e informações detalhadas sobre as questões levantadas.
+
+# Licença
+Este projeto está sob a licença Database Contents License (DbCL).
+
+# Contato
+Se você tiver alguma dúvida ou comentário sobre este projeto, sinta-se à vontade para entrar em contato através do meu e-mail: suelymesssias@gmail.com
+
+
+
+
+
+
+
+
 
